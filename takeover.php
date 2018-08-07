@@ -1,5 +1,7 @@
 
-<style>
+<html>
+<body>
+  <style>
 html, body {
   background: #333;
   height: 100%;
@@ -60,3 +62,5 @@ html, body {
   </svg>
    <div class="text">PoC <br> <br>Sub-Domian Takeover </div>
 </div>
+  </body>
+</html>
