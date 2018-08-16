@@ -62,17 +62,9 @@ html, body {
   </svg>
    <div class="text">PoC <br> <br>Sub-Domian Takeover </div>
 </div>
-  <style>
-    div.absolute {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    width: 200px;
-    height: 100px;
-    border: 3px solid #73AD21;
-}
-    </style>
-  
-  <div class="absolute">BY MANISH</div>
+<div style="color: #fff; font-family: 'Roboto Condensed';margin-top: 320px;margin-left: 180px;
+" >
+    By Manish
+</div>
   </body>
 </html>
