@@ -62,5 +62,8 @@ html, body {
   </svg>
    <div class="text">PoC <br> <br>Sub-Domian Takeover </div>
 </div>
+  <div>
+    By Manish 
+  </div>
   </body>
 </html>
