@@ -62,6 +62,6 @@ html, body {
   </svg>
    <div class="text">PoC <br> <br>Sub-Domian Takeover </div>
 </div>
-  <div class="text"><br>By Manish  </div>
+  <div <br>By Manish</div>
   </body>
 </html>
